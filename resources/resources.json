@@ -17,4 +17,13 @@
       "unit": "%",
       "value": 0,
       "gpio": 12
+},
+"actuators": {
+"leds": {
+        "1": {
+        "name": "LED 1",
+        "value": false,
+        "gpio": 4
+      }
+    }
 }
