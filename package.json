@@ -12,10 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "optionalDependencies": {
-"onoff": "^1.0.4",
-"node-dht-sensor": "^0.0.8"
-},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nicolaile/iotRasp.git"
