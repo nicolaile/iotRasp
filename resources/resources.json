@@ -1,0 +1,20 @@
+{
+  "pi": {
+      "name": "WoT Pi",
+      "description": "A simple WoT-connected Raspberry PI for the WoT book.",
+      "port": 8484,
+      "sensors": {
+                "temperature": {
+                "name": "Temperature Sensor",
+                "description": "A temperature sensor.",
+                "unit": "celsius",
+                "value": 0,
+                "gpio": 12
+},
+"humidity": {
+      "name": "Humidity Sensor",
+      "description": "A humidity sensor.",
+      "unit": "%",
+      "value": 0,
+      "gpio": 12
+}
